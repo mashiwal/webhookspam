@@ -1,7 +1,6 @@
 Script version: v1.3
 
 [DISCLAIMER]
-
 This tool is meant for educational purposes only
 and any malicious usage of this tool is prohibited
 The owner is not responsible for the users actions.
