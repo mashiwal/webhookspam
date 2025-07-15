@@ -8,4 +8,4 @@ make sure to have Python 3.x
 
 version: v1.3
 Discord: https://dsc.gg/mashgroup
-Youtube: https://www.youtube.com/mashiwal
+Youtube: https://youtube.com/@mashiwal
