@@ -1,11 +1,7 @@
-Script version: v1.3
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mashiwal)](https://github.com/anuraghazra/github-readme-stats) 
 
-[DISCLAIMER]
-This tool is meant for educational purposes only
-and any malicious usage of this tool is prohibited
-The owner is not responsible for the users actions.
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mashiwal&show_icons=true)
 
-make sure to have Python 3.x
+![GitHub streak stats](https://streak-stats.demolab.com/?user=mashiwal)
 
-Discord: https://dsc.gg/mashgroup
-Youtube: https://youtube.com/@mashiwal
+[![trophy](https://github-profile-trophy.vercel.app/?username=mashiwal)](https://github.com/ryo-ma/github-profile-trophy)   
